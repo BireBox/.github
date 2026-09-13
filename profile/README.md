@@ -9,6 +9,9 @@ BireBox is a browser based on Microsoft Edge for compatibility and features.
 - Brand new extensions on the Web Store
 - New DevTools layout
 - Way more features than original Microsoft Edge!
+- early support with BireBox Sync which is a repo [here](https://github.com/BireBox/BireBox-Sync)
+
+## Why does BireBox exist
 
 ## Try BireBox online
 
