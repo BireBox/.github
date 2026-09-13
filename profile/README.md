@@ -21,3 +21,7 @@ BireBox is a browser based on Microsoft Edge for compatibility and features.
 ## Try BireBox online
 
 BireBox online on web: [BireBox Online](https://birebox.org)
+
+## Desktop Components 
+
+If you want BireBox on desktop, you can play with it for free at the desktop repo: [Desk-page-Bire](https://github.com/BireBox/Desk-page-Bire)
